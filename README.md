@@ -32,6 +32,6 @@ Tiempo Promedio: 0.524 s
 SpeedUp: 0.624
 Eficiencia: 0.104
 
-A partir de los resultados podemos ver que la eficiencia no mejora a 
+A partir de los resultados podemos ver que la SpeedUp no mejora a 
 partir de 3 hilos o mas, esto era de esperarse ya que el codigo permite 
 un maximo de 3 hilos y espera que terminen estos 3 tareas para poder continuar.
